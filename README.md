@@ -1,8 +1,6 @@
 # [Exercice] EDA - Recherche d'éléments permettant d'expliquer le prix d'une maison
 
 ├── .vsode
-├── data
-│   └── ee654666-9d19-402e-9b80-5b70e4bcfe2d.csv
 ├── NOTEBOOK
 │   └── EDA_CLEAN.ipynb
 ├── .gitignore
